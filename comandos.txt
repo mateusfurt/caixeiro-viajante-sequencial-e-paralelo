@@ -1,0 +1,2 @@
+mpicc -o exemplo caixeirompi.c
+mpirun -np 0 ./exemplo
